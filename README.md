@@ -20,6 +20,7 @@ Social media profiles
 Job titles
 Birthdays
 Notes or comments
+
 Search and Retrieval: Users can quickly search for specific contacts using various criteria such as name, phone number, or email address. This feature is especially useful when dealing with a large number of contacts.
 
 Categorization and Tagging: Contacts can be categorized or tagged for easy segmentation. For example, contacts can be grouped into categories like "Friends," "Family," "Work," and tagged with keywords like "Important" or "Business Partner."
